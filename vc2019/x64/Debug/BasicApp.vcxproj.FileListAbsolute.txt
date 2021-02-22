@@ -1,0 +1,4 @@
+C:\Users\mrade\Desktop\Cinder-master\samples\BasicApp\vc2019\x64\Debug\BasicApp.exe
+C:\Users\mrade\Desktop\Cinder-master\samples\BasicApp\vc2019\x64\Debug\BasicApp.pdb
+C:\Users\mrade\Desktop\Cinder\samples\MyCinderShader\vc2019\x64\Debug\BasicApp.exe
+C:\Users\mrade\Desktop\Cinder\samples\MyCinderShader\vc2019\x64\Debug\BasicApp.pdb
